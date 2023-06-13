@@ -33,4 +33,3 @@ function searchGenesis() {
   console.log(GenesisUrl);
   window.open(GenesisUrl, "_blank");
 }
-
